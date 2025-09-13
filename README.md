@@ -1,3 +1,7 @@
+**`Desenvolvedor FullStack`**
+
+Me chamo Nathan Uflacker, tenho 24 anos e sou natural do Rio Grande do Sul. Estou cursando Engenharia de Software. Sou Apaixonado por tecnologia e acredito na democratização do conhecimento compartilhando o que sei através de posts no Linkedin!
+
 - 👋 Hi, I’m @NathanUflacker
 - 👀 I’m interested in self improvement
 - 🌱 I’m currently learning the classic front-end technology: CSS, HTML and JavaScript
@@ -13,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Contatos:
 <div>
-<a href="https://instagram.com/nathanuflacker" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/nathan_uflacker" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:nathanuflacker@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/nathanuflacker" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
