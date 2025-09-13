@@ -1,5 +1,7 @@
 **`Desenvolvedor FullStack`**
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Nathan;Uflacker)](https://git.io/typing-svg)
+
 Me chamo Nathan Uflacker, tenho 24 anos e sou natural do Rio Grande do Sul. Estou cursando Engenharia de Software. Sou Apaixonado por tecnologia e acredito na democratização do conhecimento compartilhando o que sei através de posts no Linkedin!
 
 - 👋 Hi, I’m @NathanUflacker
