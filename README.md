@@ -1,6 +1,6 @@
 **`Desenvolvedor FullStack`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=900&height=60&lines=Nathan+Uflacker;Dev+Full-Stack+%26+CyberSecurity)](https://git.io/typing-svg)
+https://readme-typing-svg.demolab.com/demo/?color=F70000&center=true&vCenter=true&multiline=true&width=900&height=60&lines=Nathan+Uflacker;Dev+Full-Stack+%26+CyberSecurity
 
 Me chamo Nathan Uflacker, tenho 24 anos e sou natural do Rio Grande do Sul. Estou cursando Engenharia de Software. Sou Apaixonado por tecnologia e acredito na democratização do conhecimento compartilhando o que sei através de posts no Linkedin!
 
