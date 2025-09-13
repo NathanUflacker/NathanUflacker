@@ -6,7 +6,6 @@ Me chamo Nathan Uflacker, tenho 24 anos e sou natural do Rio Grande do Sul. Esto
 
 - 👋 Hi, I’m @NathanUflacker
 - 👀 I’m interested in self improvement
-- 🌱 I’m currently learning the classic front-end technology: CSS, HTML and JavaScript
 - 💞️ I’m looking to collaborate on everything my habilities allow me to
 - 📫 How to reach me:
   email: nathanuflacker@hotmail.com 
